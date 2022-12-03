@@ -1,5 +1,5 @@
 name: Deploy piHole
-on:git
+on:
   push:
     branches:
       - main
